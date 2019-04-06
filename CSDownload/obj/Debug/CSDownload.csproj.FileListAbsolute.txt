@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2015\Projects\CSDownload\CSDownload\bin\Debug\CSDownload.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\CSDownload\CSDownload\bin\Debug\CSDownload.exe
+c:\users\administrator\documents\visual studio 2015\Projects\CSDownload\CSDownload\bin\Debug\CSDownload.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\CSDownload\CSDownload\obj\Debug\CSDownload.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\CSDownload\CSDownload\obj\Debug\CSDownload.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\CSDownload\CSDownload\obj\Debug\CSDownload.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\CSDownload\CSDownload\obj\Debug\CSDownload.exe
+c:\users\administrator\documents\visual studio 2015\Projects\CSDownload\CSDownload\obj\Debug\CSDownload.pdb
